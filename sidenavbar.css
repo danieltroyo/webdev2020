@@ -1,0 +1,21 @@
+.sidenavbar{
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 0px;
+    height: 0px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.sidenavbar a{
+    color: blanchedalmond;
+    padding: 20px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    text-decoration: none;
+}
+
+
